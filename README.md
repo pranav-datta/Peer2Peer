@@ -1,2 +1,2 @@
 # Peer2Peer
-Local P2P file sharing in Python
+A simple local Peer 2 Peer file sharing application on Python.
